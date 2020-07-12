@@ -1,0 +1,17 @@
+{
+    "name": "skale02/callagent",
+    "description": "This is call agent test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sneha kale",
+            "email": "snehakale2827@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+	"autoload": {
+        "psr-4": {"skale02\\CallAgent\\": "src/"}
+    },
+    "require": {}
+}
