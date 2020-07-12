@@ -1,6 +1,6 @@
 <?php
 
-	use skale02\CallAgent;
+	use skale02\callagent;
 	
 	class Viewcallagent{
 		public function display(){

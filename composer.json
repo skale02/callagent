@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
 	"autoload": {
-        "psr-4": {"skale02\\CallAgent\\": "src/"}
+        "psr-4": {"skale02\\callagent\\": "src/"}
     },
 	"version": "1.0.0",
     "require": {}
