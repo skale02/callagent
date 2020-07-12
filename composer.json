@@ -13,5 +13,6 @@
 	"autoload": {
         "psr-4": {"skale02\\CallAgent\\": "src/"}
     },
+	"version": "1.0.0",
     "require": {}
 }
